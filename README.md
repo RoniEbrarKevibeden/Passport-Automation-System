@@ -47,16 +47,17 @@ Technologies Used
 
 Quick Start
 
-python -m venv .venv
-.\.venv\Scripts\activate    # Windows
-pip install -r requirements.txt
-python app.py
+	python -m venv .venv
+	.\.venv\Scripts\activate # Windows
+	pip install -r requirements.txt
+	python app.py
 
 ⸻
 
 Alternatively:
-set FLASK_APP=app.py
-flask run
+
+	set FLASK_APP=app.py
+	flask run
 
 ⸻
 
