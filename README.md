@@ -62,10 +62,15 @@ Alternatively:
 ⸻
 
 What I Learned
+	
 	•	Designing end-to-end workflows for real-world applications
+	
 	•	Implementing role-based access control
+
 	•	Building backend logic with Flask
+
 	•	Handling user data responsibly and securely
+
 	•	Understanding how security concepts apply in web applications
 
 
