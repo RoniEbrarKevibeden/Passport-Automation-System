@@ -43,18 +43,16 @@ The goal was to gain hands-on experience in **web development**, **workflow auto
 - SMTP (email notifications)
 - Git & GitHub
 
----
-
 ## Quick Start
 
 ### 1) Create and activate a virtual environment
+
 **Windows**
 ```bash
-pytmacOS / Linuxhon -m venv .venv
+python -m venv .venv
 .\.venv\Scripts\activate
+macOS / Linux
 
-**macOS / Linux**
-```bash
 python -m venv .venv
 source .venv/bin/activate
 
@@ -67,15 +65,11 @@ Alternatively:
 set FLASK_APP=app.py
 flask run
 
-What I Learned
-
-Designing end-to-end workflows for real-world applications
-
-Implementing role-based access control
-
-Building backend logic with Flask
-
-Handling user data responsibly and securely
-
-Understanding how security concepts apply in web applications
+## What I Learned
+- Designing end-to-end workflows for real-world applications  
+- Implementing role-based access control  
+- Building backend logic with Flask  
+- Handling user data responsibly and securely  
+- Applying security concepts in web applications
+---
 
