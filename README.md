@@ -6,6 +6,8 @@ A Flask-based web application that digitizes internal passport application handl
 
 ## Demo Preview
 ![Login Screen](docs/login.png)
+> Demo accounts are provided for demonstration purposes only. Please do not submit real personal data.
+
 
 ## Project Overview
 This project simulates a real-world internal application management system with **User** and **Admin** roles.  
@@ -50,4 +52,22 @@ The goal was to gain hands-on experience in **web development**, **workflow auto
 ```bash
 python -m venv .venv
 .\.venv\Scripts\activate
-```
+
+macOS / Linux
+python -m venv .venv
+source .venv/bin/activate
+
+2) Install dependencies
+   pip install -r requirements.txt
+3) Run the application
+   python app.py
+Alternatively (Flask CLI)
+set FLASK_APP=app.py
+flask run
+```md
+## What I Learned
+- Designing end-to-end workflows for real-world applications
+- Implementing role-based access control
+- Building backend logic with Flask
+- Handling user data responsibly and securely
+- Applying security concepts in web applications
