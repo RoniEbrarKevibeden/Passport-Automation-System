@@ -4,8 +4,8 @@ A Flask-based web application that digitizes internal passport application handl
 
 **Live Demo:** https://pasaport-otomasyonu-pro-final.onrender.com
 
-<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/cafea3ae-fae3-4da4-8f5d-447d110c88f2" />
-
+## Demo Preview
+![Login Screen](docs/login.png)
 
 ## Project Overview
 This project simulates a real-world internal application management system with **User** and **Admin** roles.  
