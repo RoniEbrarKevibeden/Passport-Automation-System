@@ -53,7 +53,8 @@ The goal was to gain hands-on experience in **web development**, **workflow auto
 pytmacOS / Linuxhon -m venv .venv
 .\.venv\Scripts\activate
 
-macOS / Linux
+**macOS / Linux**
+```bash
 python -m venv .venv
 source .venv/bin/activate
 
