@@ -42,7 +42,6 @@ The goal was to gain hands-on experience in **web development**, **workflow auto
 - SQLite
 - SMTP (email notifications)
 - Git & GitHub
-
 ## Quick Start
 
 ### 1) Create and activate a virtual environment
@@ -51,25 +50,4 @@ The goal was to gain hands-on experience in **web development**, **workflow auto
 ```bash
 python -m venv .venv
 .\.venv\Scripts\activate
-macOS / Linux
-
-python -m venv .venv
-source .venv/bin/activate
-
-2) Install dependencies
-pip install -r requirements.txt
-
-3) Run the application
-python app.py
-Alternatively:
-set FLASK_APP=app.py
-flask run
-
-## What I Learned
-- Designing end-to-end workflows for real-world applications  
-- Implementing role-based access control  
-- Building backend logic with Flask  
-- Handling user data responsibly and securely  
-- Applying security concepts in web applications
----
-
+```
